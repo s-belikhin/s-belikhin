@@ -13,7 +13,11 @@
 🎓 Бакалавр в сфере " Технологической безопасности процессов и производств"
 
 ### Languages and tools
-![Static Badge](https://img.shields.io/badge/Airflow-blue?style=flat&logo=apacheairflow&logoColor=black&color=%2397a8b8)
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Static Badge](https://img.shields.io/badge/Airflow-blue?style=flat&logo=apacheairflow&logoColor=white&color=%2305122A)&nbsp;
+![Static Badge](https://img.shields.io/badge/PostgreSQL-white?style=flat&logo=postgresql&logoColor=white&color=%2305122A)
+
+
 
 
 <!--
