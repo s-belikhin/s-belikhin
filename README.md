@@ -1,3 +1,4 @@
+![Белихин Семен Баннер](https://github.com/s-belikhin/s-belikhin/blob/main/assets/IMG_20230503_072110111.jpg?raw=true)
 ### Привет! Меня зовут Семён
 ---
 заебенить этот смайл
