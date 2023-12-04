@@ -1,6 +1,6 @@
 ### Привет! Меня зовут Семён
 ---
-
+заебенить этот смайл
 ###  👨🏻‍💻&nbsp;Обо мне
 💡 &nbsp;Я люблю автоматизировать работу и влиять на решения бизнеса. Именно это позволяет мне делать анализ данных. <br>
 🏭&nbsp;Я работаю на опасном производственном объекте и реализую проект по анализу тренда событий в сфере безопасности. <br>
@@ -21,10 +21,11 @@
 ![Static Badge](https://img.shields.io/badge/ClickHouse-blue?logo=clickhouse&labelColor=grey)&nbsp;
 ![Static Badge](https://img.shields.io/badge/Tableau-blue?logo=tableau&labelColor=grey)&nbsp;
 ![Static Badge](https://img.shields.io/badge/Power%20BI-blue?logo=powerbi&labelColor=grey)&nbsp;
-
+добавить библиотеки
 
 ### 🤝🏻 &nbsp;Свяжитесь со мной
 
 <p align="left">
 <a href="https://t.me/S_Belikhin"><img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&labelColor=white"/></a>
 </p>
+добавить почту
