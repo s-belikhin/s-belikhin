@@ -13,10 +13,15 @@
 🎓 Бакалавр в сфере " Технологической безопасности процессов и производств"
 
 ### Languages and tools
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Static Badge](https://img.shields.io/badge/Airflow%202.2-blue?logo=apacheairflow&labelColor=grey)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?style=flat&logo=postgresql&logoColor=white&color=%2305122A)&nbsp;
-![Static Badge](https://img.shields.io/badge/GitLab-blue?logo=gitlab&labelColor=grey)
+![Static Badge](https://img.shields.io/badge/Python-blue?logo=python&labelColor=grey)&nbsp;
+![Static Badge](https://img.shields.io/badge/Airflow%202.2-blue?logo=apacheairflow&labelColor=grey)&nbsp;
+![Static Badge](https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql&logoColor=white&labelColor=grey)&nbsp;
+![Static Badge](https://img.shields.io/badge/GitLab-blue?logo=gitlab&labelColor=grey)&nbsp;
+![Static Badge](https://img.shields.io/badge/ClickHouse-blue?logo=clickhouse&labelColor=grey)&nbsp;
+![Static Badge](https://img.shields.io/badge/Tableau-blue?logo=tableau&labelColor=grey)&nbsp;
+![Static Badge](https://img.shields.io/badge/Power%20BI-blue?logo=powerbi&labelColor=grey)&nbsp;
+
+
 
 
 
