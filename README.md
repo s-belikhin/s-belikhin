@@ -1,4 +1,4 @@
-![Banner](https://github.com/s-belikhin/s-belikhin/blob/main/assets/IMG_20220820_163408.jpg?raw=true)
+![Banner](https://github.com/s-belikhin/s-belikhin/blob/main/assets/IMG_20230503_072110111.jpg?raw=true)
 
 
 ### <img alt="!" src="./assets/Hand%20Wave.gif" width='40' align="left"/> </h2>Привет! Меня зовут Семён</h2>
