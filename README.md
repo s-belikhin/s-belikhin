@@ -1,4 +1,4 @@
-### <img alt="!" src="./assets/Hand%20Wave.gif" width='40' align="center"/> Привет! Меня зовут Семён
+### <img alt="!" src="./assets/Hand%20Wave.gif" width='40' align="right"/> Привет! Меня зовут Семён
 
 ---
 
