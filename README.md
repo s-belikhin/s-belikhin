@@ -25,6 +25,6 @@
 
 ### 🤝🏻 &nbsp;Свяжитесь со мной
 
-<p align="center">
+<p align="left">
 <a href="https://t.me/S_Belikhin"><img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&labelColor=white"/></a>
 </p>
