@@ -1,4 +1,5 @@
-![Banner]([https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg](https://github.com/s-belikhin/s-belikhin/blob/main/assets/IMG_20230502_160802.jpg?raw=true))
+![Banner]([https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg](https://github.com/s-belikhin/s-belikhin/blob/main/assets/IMG_20230502_160802.jpg?raw=true)
+
 
 ### <img alt="!" src="./assets/Hand%20Wave.gif" width='40' align="left"/> </h2>Привет! Меня зовут Семён</h2>
 
