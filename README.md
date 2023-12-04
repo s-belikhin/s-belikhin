@@ -1,4 +1,4 @@
-![Banner]([https://github.com/s-belikhin/s-belikhin/blob/main/assets/IMG_20230502_160802.jpg?raw=true])
+![Banner]([https://github.com/s-belikhin/s-belikhin/blob/main/assets/IMG_20230502_160802.jpg])
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
