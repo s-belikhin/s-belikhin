@@ -19,6 +19,7 @@
 ![Static Badge](https://img.shields.io/badge/Airflow%202.2-blue?logo=apacheairflow&labelColor=grey)&nbsp;
 ![Static Badge](https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql&logoColor=white&labelColor=grey)&nbsp;
 ![Static Badge](https://img.shields.io/badge/GitLab-blue?logo=gitlab&labelColor=grey)&nbsp;
+![Static Badge](https://img.shields.io/badge/JupyterHub-blue?logo=jupyter&labelColor=grey)&nbsp;
 ![Static Badge](https://img.shields.io/badge/ClickHouse-blue?logo=clickhouse&labelColor=grey)&nbsp;
 ![Static Badge](https://img.shields.io/badge/Tableau-blue?logo=tableau&labelColor=grey)&nbsp;
 ![Static Badge](https://img.shields.io/badge/Power%20BI-blue?logo=powerbi&labelColor=grey)&nbsp;
