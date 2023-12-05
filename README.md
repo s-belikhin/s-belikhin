@@ -28,5 +28,5 @@
 
 <p align="left">
 <a href="https://t.me/S_Belikhin"><img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&labelColor=white"/></a>
-![Static Badge](https://img.shields.io/badge/belihin.sem%40yandex.ru-blue?logo=yandex)
+<a href="https://t.me/S_Belikhin"><img src="https://img.shields.io/badge/belihin.sem%40yandex.ru-blue?logo=yandex"/> 
 </p>
