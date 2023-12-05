@@ -16,15 +16,15 @@
 🎓 Бакалавр в сфере " Технологической безопасности процессов и производств"
 
 ### Languages and tools
-![Static Badge](https://img.shields.io/badge/Python-blue?logo=python&labelColor=grey)&nbsp;
-![Static Badge](https://img.shields.io/badge/Airflow%202.2-blue?logo=apacheairflow&labelColor=grey)&nbsp;
-![Static Badge](https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql&logoColor=white&labelColor=grey)&nbsp;
-![Static Badge](https://img.shields.io/badge/GitLab-blue?logo=gitlab&labelColor=grey)&nbsp;
-![Static Badge](https://img.shields.io/badge/JupyterHub-blue?logo=jupyter&labelColor=grey)&nbsp;
-![Static Badge](https://img.shields.io/badge/ClickHouse-blue?logo=clickhouse&labelColor=grey)&nbsp;
-![Static Badge](https://img.shields.io/badge/Tableau-blue?logo=tableau&labelColor=grey)&nbsp;
-![Static Badge](https://img.shields.io/badge/Power%20BI-blue?logo=powerbi&labelColor=grey)&nbsp;
-добавить библиотеки
+![Python](https://img.shields.io/badge/Python-blue?logo=python&labelColor=grey)&nbsp;
+![Airflow](https://img.shields.io/badge/Airflow%202.2-blue?logo=apacheairflow&labelColor=grey)&nbsp;
+![SQL](https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql&logoColor=white&labelColor=grey)&nbsp;
+![GitLab](https://img.shields.io/badge/GitLab-blue?logo=gitlab&labelColor=grey)&nbsp;
+![JupyterHub](https://img.shields.io/badge/JupyterHub-blue?logo=jupyter&labelColor=grey)&nbsp;
+![ClickHouse](https://img.shields.io/badge/ClickHouse-blue?logo=clickhouse&labelColor=grey)&nbsp;
+![Tableau](https://img.shields.io/badge/Tableau-blue?logo=tableau&labelColor=grey)&nbsp;
+![Power BI](https://img.shields.io/badge/Power%20BI-blue?logo=powerbi&labelColor=grey)&nbsp;
+
 
 ### 🤝🏻 &nbsp;Свяжитесь со мной
 
