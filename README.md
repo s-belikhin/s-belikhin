@@ -1,6 +1,6 @@
 ![Белихин Семен Баннер](https://github.com/s-belikhin/s-belikhin/blob/main/assets/IMG_20230503_072110111.jpg?raw=true)
 
-<img alt="Night Coding" src="./assets/Hand Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
+<img alt="Night Coding" src="./assets/Hand Wave.gif" width='40' align="left"/><h2>Привет! Меня зовут Семён</h2>
 ### Привет! Меня зовут Семён
 ---
 
